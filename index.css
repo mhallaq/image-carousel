@@ -18,6 +18,20 @@ body {
   font-size: 16px;
   margin: 4px 2px;
   border-radius: 8px;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: #beefec;
+  border: none;
+  background-color: rgb(14, 19, 72);
+  padding: 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
 }
 
 .input {
