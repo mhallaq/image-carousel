@@ -43,3 +43,8 @@ body {
   border: 2px solid var(--input-border);
   border-radius: 4px;
 }
+
+.responsive-img {
+  width: 80%;
+  height: auto;
+}
